@@ -1,4 +1,4 @@
-# 🫁 Early Biomarker Discovery for Lung Cancer Using High-Dimensional RNA Sequencing Data
+# Early Biomarker Discovery for Lung Cancer Using High-Dimensional RNA Sequencing Data
 
 This repository presents a **biomarker-oriented machine learning framework** for detecting lung cancer using **high-dimensional RNA sequencing data**.  
 Unlike traditional workflows focused only on classification performance, this project emphasizes:
